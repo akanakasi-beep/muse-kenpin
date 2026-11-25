@@ -1,0 +1,5 @@
+name: "kenpin"
+title: "検品 — Claim–Record Verification"
+description: "Verify claims in articles, reports, proposals, résumés, AI outputs and tips by collating them against original sources and records, and return a four-point record: conclusion per claim, grounds actually checked, inference branch points, and what remains unresolved."
+category: "Work and knowledge"
+include_in_prompt: false
